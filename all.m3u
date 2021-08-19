@@ -1,56 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国央视", CCTV-1 综合 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国央视", CCTV-2 财经 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国央视", CCTV-3 综艺 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国央视", CCTV-4 中文国际 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国央视", CCTV-5 体育 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225767/index.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中国央视", CCTV-5+ 体育赛事 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国央视", CCTV-6 电影 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
-
-#EXTINF:-1 tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中国央视", CCTV-7 国防军事 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
-
-#EXTINF:-1 tvg-id="9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中国央视", CCTV-8 电视剧 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
-
-#EXTINF:-1 tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中国央视", CCTV-9 纪录 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
-
-#EXTINF:-1 tvg-id="11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中国央视", CCTV-10 科教 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
-
-#EXTINF:-1 tvg-id="12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中国央视", CCTV-11 戏曲 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
-
-#EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中国央视", CCTV-12 社会与法 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
-
-#EXTINF:-1 tvg-id="14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国央视", CCTV-13 新闻 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-
-#EXTINF:-1 tvg-id="15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中国央视", CCTV-14 少儿 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
-
-#EXTINF:-1 tvg-id="16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中国央视", CCTV-15 音乐 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
-
-#EXTINF:-1 tvg-id="17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国央视", CCTV-17 农业农村 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225907/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国央视", CCTV-1 综合 高清
 http://39.135.34.151:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 
 #EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国央视", CCTV-2 财经 高清
@@ -181,6 +130,57 @@ http://39.135.34.147:8080/000000001000/1000000002000013359/1.m3u8?channel-id=yst
 
 #EXTINF:-1 tvg-id="67" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="中国卫视", 西藏卫视
 http://39.135.34.151:8080/000000001000/6603041244077933770/1.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6603041244077933770&owchid=ystenlive&owsid=1106497909461425998&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4rU4xzu091vKo8roYmr5h0BUDfpV78hsy2ysppzSDfUZCxoKss4LitbPhVYxcC0QN4CD2KiJutsirhMo3jfYAi
+
+#EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国央视", CCTV-1 综合 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国央视", CCTV-2 财经 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国央视", CCTV-3 综艺 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国央视", CCTV-4 中文国际 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国央视", CCTV-5 体育 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225767/index.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中国央视", CCTV-5+ 体育赛事 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国央视", CCTV-6 电影 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中国央视", CCTV-7 国防军事 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中国央视", CCTV-8 电视剧 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中国央视", CCTV-9 纪录 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中国央视", CCTV-10 科教 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中国央视", CCTV-11 戏曲 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中国央视", CCTV-12 社会与法 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国央视", CCTV-13 新闻 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中国央视", CCTV-14 少儿 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中国央视", CCTV-15 音乐 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国央视", CCTV-17 农业农村 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225907/index.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国央视", CCTV-1 综合 高清
 http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv1/1.m3u8
