@@ -13,7 +13,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="直播源 V1", CCTV-5 体育 高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="直播源 V1", CCTV-5+ 体育赛事 高清
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
@@ -48,6 +48,9 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="直播源 V1", CCTV-15 音乐 高清
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 
+#EXTINF:-1 tvg-id="17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="直播源 V1", CCTV-17 农业农村 高清
+http://39.135.138.60:18890/PLTV/88888910/224/3221225907/index.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="直播源 V2", CCTV-1 综合 高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 
@@ -55,25 +58,25 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="直播源 V2", CCTV-3 综艺 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="直播源 V2", CCTV-4 中文国际 高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="直播源 V2", CCTV-5 体育 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225767/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="直播源 V2", CCTV-5+ 体育赛事 高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="直播源 V2", CCTV-6 电影 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="直播源 V2", CCTV-7 国防军事 高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="直播源 V2", CCTV-8 电视剧 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="直播源 V2", CCTV-9 纪录 高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
