@@ -54,9 +54,6 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="直播源 IPV6",CCTV-17 农村农业
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8\?
 
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="直播源 IPV6",CGTN
-http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8\?
-
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="直播源 IPV6",湖南卫视
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000174/index.m3u8\?
 
@@ -128,6 +125,9 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225989/index.m3u8
 
 #EXTINF:-1 tvg-id="73" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/中国教育1台.png" group-title="直播源 IPV6",中国教育1台
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000481/index.m3u8\?
+
+#EXTINF:-1 tvg-id="891" tvg-name="CGTN 纪录(英)" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="直播源 IPV6",CGTNDocumentary
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8\?
 
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实人文	" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="直播源 IPV6",上海纪实
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000365/index.m3u8\?
