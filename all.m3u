@@ -1,31 +1,31 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="直播源 IPV6",CCTV-1 综合
-http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8? 
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="直播源 IPV6",CCTV-2 财经
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="直播源 IPV6",CCTV-3 综艺
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8?
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="直播源 IPV6",CCTV-4 国际
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000485/index.m3u8?
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="直播源 IPV6",CCTV-5 体育
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8?
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="直播源 IPV6",CCTV-5+ 体育赛事
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="直播源 IPV6",CCTV-6 电影
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225814/index.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225814/index.m3u8?
 
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="直播源 IPV6",CCTV-7 国防军事
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000380/index.m3u8?
 
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="直播源 IPV6",CCTV-8 电视剧
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225795/index.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225795/index.m3u8?
 
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="直播源 IPV6",CCTV-9 纪录
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000373/index.m3u8?
@@ -49,7 +49,7 @@ http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000378/ind
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="直播源 IPV6",CCTV-16 奥林匹克频道
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8?
 
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="直播源 IPV6",CCTV-17 农村农业
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?
@@ -106,7 +106,7 @@ http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000487/ind
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000175/index.m3u8?
 
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="直播源 IPV6",河南卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225988/index.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225988/index.m3u8?
 
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="直播源 IPV6",湖北卫视
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000250/index.m3u8?
@@ -118,10 +118,10 @@ http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000522/ind
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8?
 
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="直播源 IPV6",山西卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8?
 
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="直播源 IPV6",陕西卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225989/index.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225989/index.m3u8?
 
 #EXTINF:-1 tvg-id="73" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="直播源 IPV6",中国教育1台
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000481/index.m3u8?
