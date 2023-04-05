@@ -7,25 +7,25 @@ http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000131/ind
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?IAS
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="IPV6 央视",CCTV-3 综艺
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225634/index.m3u8
+http://[2409:8087:5011:1020::2c]/180000001001/00000001000000001001000000000051/main.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="IPV6 央视",CCTV-4 国际
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000485/index.m3u8?IAS
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="IPV6 央视",CCTV-5 体育
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
+http://[2409:8087:5011:1020::2d]/180000001001/00000001000000001001000000000053/main.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="IPV6 央视",CCTV-5+ 体育赛事
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="IPV6 央视",CCTV-6 电影
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
+http://[2409:8087:5011:1020::1c]/180000001001/00000001000000001001000000000054/main.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="IPV6 央视",CCTV-7 国防军事
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000380/index.m3u8?IAS
 
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="IPV6 央视",CCTV-8 电视剧
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225631/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="IPV6 央视",CCTV-9 纪录
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000373/index.m3u8?IAS
@@ -49,7 +49,7 @@ http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000378/ind
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?IAS
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="IPV6 央视",CCTV-16 奥林匹克频道
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226233/index.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="IPV6 央视",CCTV-17 农村农业
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?IAS
@@ -97,10 +97,10 @@ http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000523/ind
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000502/index.m3u8?IAS
 
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="IPV6 卫视",甘肃卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225724/2/index.m3u8
+http://[2409:8087:5050:20::3023]/180000001001/00000001000000000045000000287932/main.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="IPV6 卫视",广西卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226211/index.m3u8?fmt=ts2hls
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000333/index.m3u8?IAS
 
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="IPV6 卫视",贵州卫视
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000489/index.m3u8?IAS
@@ -124,22 +124,25 @@ http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000522/ind
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8?IAS
 
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="IPV6 卫视",山西卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.m3u8
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
 
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="IPV6 卫视",陕西卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000313/index.m3u8?IAS
 
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="IPV6 卫视",四川卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225487/index.m3u8?fmt=ts2hls
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8
 
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="IPV6 卫视",云南卫视
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8
+
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="IPV6 卫视",青海卫视
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226584/index.m3u8
 
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="IPV6 卫视",厦门卫视
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
 
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="IPV6 数字付费",中国教育1台
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225917/2/index.m3u8
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000481/index.m3u8?IAS
 
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="IPV6 数字付费",中国教育4台
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001017000000440665/main.m3u8?IASHttpSessionId=OTT
@@ -204,9 +207,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3
 #EXTINF:-1 tvg-id="6595" tvg-name="中数快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="IPV6 数字付费",快乐垂钓
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="IPV6 其他",凤凰香港
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="IPV6 其他",CGTN 纪录(英)
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
@@ -222,11 +222,8 @@ http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000365/ind
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实	" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="IPV6 其他",金鹰纪实
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000482/index.m3u8?IAS
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6 其他",纯享4K
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPV6 其他",江西少儿
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226194/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="IPV6 其他",魅力足球
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="直播源 V1", CCTV-1 综合 高清
 http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
